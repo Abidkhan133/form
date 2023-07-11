@@ -1,0 +1,21 @@
+.nav_div{
+    display: flex;
+    justify-content: flex-end;
+    background-color: black;
+}
+
+.nav{
+    padding: 12px;
+    margin: 2px 8px;
+    text-decoration: none;
+    color: #fff;
+    font-weight: 25px;
+    color: grey;
+}
+
+.nav:hover{
+    color: #fff;
+}
+.signup form input{
+    margin: 5px;
+}
